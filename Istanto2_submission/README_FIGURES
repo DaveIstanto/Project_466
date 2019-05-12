@@ -1,0 +1,11 @@
+Legend for Figure 1:
+
+y-axis: Test loss (Cross entropy loss)
+x-axis: Epoch
+
+
+Legend for Figures 2 and 3:
+
+y-axis: RMSE
+x-axis: Epoch
+
